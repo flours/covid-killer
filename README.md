@@ -24,4 +24,8 @@ git checkout ブランチ名
 git status 
 ```
 リモートブランチの確認
+```
 git remote
+```
+
+
